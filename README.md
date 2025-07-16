@@ -27,7 +27,7 @@ python verifica_hash.py caminho/do/arquivo.ext HASH_ORIGINAL
 bash
 Copiar
 Editar
-python verificador_hash.py exemplo.txt 3a7bd3e2360a3d29eea436fcfb9aa6e6d3f3d0dd7b4e3f2dba7797f75f2e3c09
+python verifica_hash.py exemplo.txt 3a7bd3e2360a3d29eea436fcfb9aa6e6d3f3d0dd7b4e3f2dba7797f75f2e3c09
 📦 Requisitos
 Python 3.6 ou superior
 
@@ -37,8 +37,8 @@ Biblioteca hashlib (já incluída no Python)
 python
 Copiar
 Editar
-verificador-hash/
-├── verificador_hash.py
+verifica-hash/
+├── verifica_hash.py
 └── README.md
 🚀 Objetivo do Projeto
 Criar uma ferramenta simples e eficiente para:
